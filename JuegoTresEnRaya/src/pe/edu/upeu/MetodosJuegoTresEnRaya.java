@@ -6,6 +6,7 @@
 
 package pe.edu.upeu;
 
+//Clase Alumno
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
